@@ -1,7 +1,8 @@
 # bootstrap-gird-template
 A design template base on bootstrap gird system
 
-先做了一个sketch版的，有时间在补上psd的
+先做了一个sketch版的，有时间在补上psd的，ok
+111
 
 
 默认的是1140宽度
